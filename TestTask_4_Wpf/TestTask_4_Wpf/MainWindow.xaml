@@ -1,0 +1,26 @@
+﻿<Window x:Class="TestTask_4_Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Name="mainWindow"
+        WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="750" Width="750">
+    <Canvas Name="canvas" 
+        Background="LightGray" >
+        <StackPanel Orientation="Vertical" Margin="5,5,0,0">
+            <Button Name="buttonGo" Width="60" Height="25" Content="GO!" VerticalAlignment="Top" HorizontalAlignment="Right" />
+            <!--<TextBlock Name="txtblkPoint" Margin="0,5,0,0" />-->
+            <Button Name="buttonReset" Width="60" Height="25" Content="Reset" Margin="0,5,0,0" />
+        </StackPanel>
+        <TextBlock Visibility="Hidden" Name="txtDescription" Margin="100,5,0,0" Text="Set several dots on the window by mouse left-click and click GO-button"/>
+        <CheckBox Name="checkBox" Margin="520,5,0,0" Content="Enter the coordinates of points"  />
+        
+        <StackPanel Margin="100,5,0,0" Name="panelCoordinates" Orientation="Horizontal">
+            <TextBlock Text="X: "/>
+            <TextBox Margin="10,0,0,0" Name="textBox_X" Width="40" />
+            <TextBlock Margin="20,0,0,0" Text="Y: "/>
+            <TextBox Margin="10,0,0,0" Name="textBox_Y" Width="40" />
+            <Button Name="buttonSetPoint" Margin="40,0,0,0" Content="Set point" />
+        </StackPanel>
+    </Canvas>
+        
+</Window>

@@ -1,0 +1,8 @@
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\bin\Debug\TestTask_1_0.exe.config
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\bin\Debug\TestTask_1_0.exe
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\bin\Debug\TestTask_1_0.pdb
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\bin\Debug\YamlSerializer.dll
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\bin\Debug\YamlSerializer.xml
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\obj\Debug\TestTask_1_0.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\obj\Debug\TestTask_1_0.exe
+D:\Programming\Projects\Visual Studio projects\TestTasks\TestTask_1_0\TestTask_1_0\obj\Debug\TestTask_1_0.pdb
